@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\lab31\lab31\bin\Debug\netcoreapp3.1\lab31.exe
+C:\Users\User\source\repos\lab31\lab31\bin\Debug\netcoreapp3.1\lab31.deps.json
+C:\Users\User\source\repos\lab31\lab31\bin\Debug\netcoreapp3.1\lab31.runtimeconfig.json
+C:\Users\User\source\repos\lab31\lab31\bin\Debug\netcoreapp3.1\lab31.runtimeconfig.dev.json
+C:\Users\User\source\repos\lab31\lab31\bin\Debug\netcoreapp3.1\lab31.dll
+C:\Users\User\source\repos\lab31\lab31\bin\Debug\netcoreapp3.1\lab31.pdb
+C:\Users\User\source\repos\lab31\lab31\obj\Debug\netcoreapp3.1\lab31.csprojAssemblyReference.cache
+C:\Users\User\source\repos\lab31\lab31\obj\Debug\netcoreapp3.1\lab31.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\lab31\lab31\obj\Debug\netcoreapp3.1\lab31.AssemblyInfo.cs
+C:\Users\User\source\repos\lab31\lab31\obj\Debug\netcoreapp3.1\lab31.dll
+C:\Users\User\source\repos\lab31\lab31\obj\Debug\netcoreapp3.1\lab31.pdb
